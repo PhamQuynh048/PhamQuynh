@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ICVBbvpfYN4Bi3iIC7v6aCXA3s9CEPVAs1Y25bHuO6IM5cVYfqXsHN7qHIddZ+CqWQOa60ikGELrOsn9z5m+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Documents\\HomeworkC#\\WAD\\Lab06\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
