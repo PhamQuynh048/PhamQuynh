@@ -15,7 +15,7 @@ namespace ContosoCrafts.WebSite.Controllers
     {
         public ProductsController(JsonFileProductsServices productService)
         {
-
+            this.ProductService = productService;
         }
 
         public JsonFileProductsServices ProductService { get; }
@@ -23,7 +23,7 @@ namespace ContosoCrafts.WebSite.Controllers
         [HttpGet]
         public IEnumerable<Product> Get()
         {
-                    return ProductService.GetProducts();
+            return ProductService.GetProducts();
         }
 
         //[HttpPatch]

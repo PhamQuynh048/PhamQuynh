@@ -1,0 +1,299 @@
+						 	=====STEP BY STEP=====
+	                                              *** Project: Contoso Crafts ***
+  1. Create project "Contoso Crafts" - ASP.NET Core Web Application (Video 2)
+  2.(Video 3)  
+	+) In "wwwroot" Add New Folder "data" ==> product.json
+	+) Add - New Folder "Models" ==> Product.cs
+  3.(Video 4)
+	+) Add - New Folder "Services" ==> JsonFileProductsService.cs
+	+) In Startup.cs add to ConfigureServices :
+
+		            services.AddTransient<JsonFileProductsService>();
+
+  4.(Video 5)
+	+) Edit Index.cshtml.cs :
+		public JsonFileProductsService ProductService;
+        	public IEnumerable<Product> Products { get; private set; }
+		public IndexModel(ILogger<IndexModel> logger,
+            		JsonFileProductsService productSevice)
+        	{
+            		_logger = logger;
+            		ProductService = productSevice;
+        	}
+		public void OnGet()
+        	{
+            		Products = ProductService.GetProducts();
+        	}
+	+) Add to Index.cshtml :
+		@foreach (var product in Model.Products)
+		{	<h2>@product.Title</h2>		}
+   5.(Video 6)
+	+) Edit Index.cshtml :
+		<div class="card-columns">
+    			@foreach (var product in Model.Products)
+    			{
+    				<div class="card">
+        				<div class="card-img" style="background-image: url('@product.Image');"></div>
+        				<div class="card-body"><h5 class="card-title">@product.Title</h5></div>
+    				</div>
+    			}
+		</div>
+	+) Edit "site.css" in folder "css".
+	+) In _Layout.cshtml : - Delete: <li ... asp-page="/Index">Home ... </li>
+			       - Add fonts to <head>:
+					<link href="http://fonts.googleapis.com/css?family=Yellowtail&display=swap" rel="stylesheet" />
+    					<link href="http://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet" />
+   6.(Video 7)
+	+) Edit Startup.cs :
+		app.UseEndpoints(endpoints =>
+            	{
+                	endpoints.MapRazorPages();
+                	endpoints.MapGet("/products", (context) => {
+                    		var products = app.ApplicationServices.GetService<JsonFileProductsService>().GetProducts();
+                    		var json = JsonSerializer.Serialize<IEnumerable<Product>>(products);
+                    		return context.Response.WriteAsync(json);
+                	});
+            	});
+   7.(Video 8)
+	+) Add - New Folder "Controllers" ==> ProductsController.cs (API Controller - Empty) :
+		[Route("[controller]")]
+    		[ApiController]
+    		public class ProductsController : ControllerBase
+    		{
+        		public ProductsController(JsonFileProductsServices productService)
+        		{
+            			this.ProductService = productService;
+        		}
+
+        		public JsonFileProductsServices ProductService { get; }
+
+        		[HttpGet]
+        		public IEnumerable<Product> Get()
+        		{
+           			 return ProductService.GetProducts();
+        		}
+    		}
+	+) In Startup.cs add to ConfigureServices :
+
+		services.AddControllers();
+
+	+) In Startup.cs add to app.UseEndpoints :
+	
+		endpoints.MapControllers();
+   8.(Video 9)
+	+) In JsonFileProductsService.cs add :
+		public void AddRating(string productId, int rating)
+        	{
+            		var products = GetProducts();
+
+            		//LINQ
+            		var query = products.First(X500DistinguishedName => X500DistinguishedName.Id == productId);
+
+            		if (query.Ratings == null)
+            		{
+                		query.Ratings = new int[] { rating };
+            		}
+            		else
+            		{
+                		var ratings = query.Ratings.ToList();
+                		ratings.Add(rating);
+                		query.Ratings = ratings.ToArray();
+            		}
+
+            		using (var outputStream = File.OpenWrite(JsonFileName))
+            		{
+                		JsonSerializer.Serialize<IEnumerable<Product>>(
+                    			new Utf8JsonWriter(outputStream, new JsonWriterOptions
+                    		{
+                        		SkipValidation = true,
+                        		Indented = true
+                    		}),
+                    		products
+                    		);
+            		}
+        	}
+	+) In ProductsController.cs add:
+			//[HttpPatch] "[FromBody]"
+        		[Route("Rate")]
+       			[HttpGet]
+        		public ActionResult Get(
+            			[FromQuery] string productId,
+            			[FromQuery] int Rating)
+        		{
+            			ProductService.AddRating(productId, Rating);
+            			return Ok();
+        		}
+   9.(Video 10)
+	+) Add - New Folder "Components" ==> ProductList.razor (Razor Component) :
+		@using Microsoft.AspNetCore.Components.Web
+		@using ContosoCrafts.WebSite.Models
+		@using ContosoCrafts.WebSite.Services
+		@inject JsonFileProductsServices ProductService
+
+		<div class="card-columns">
+    			@foreach (var product in ProductService.GetProducts())
+    			{
+        			<div class="card">
+            				<div class="card-img" style="background-image:url('@product.Image');"></div>
+            				<div class="card-body">
+                				<h5 class="card-title">@product.Tittle</h5>
+            				</div>
+        			</div>
+        			<div class="card-footer">
+            				<small class="text-muted">
+                				<button @onclick="(e => SelectProduct(product.Id))"
+                        		     		data-toggle="modal" data-target="#productModal" class="btn btn-primary">
+                    				     More Info
+                				</button>
+            				</small>
+        			</div>
+    			}
+		</div>
+		
+		@code {
+    			Product selectedProduct;
+    			string selectedProductId;
+
+    			void SelectProduct(string productId)
+    			{
+        			selectedProductId = productId;
+        			selectedProduct = ProductService.GetProducts().First(x => x.Id == productId);
+    			}
+	+) In Stratup.cs add to ConfigureServices :
+
+		services.AddServerSideBlazor();
+
+	+) Add to app.UseEndpoints :
+
+		 endpoints.MapBlazorHub();
+
+	+) In Index.cshtml add :
+		@using ContosoCrafts.WebSite.Components
+		...
+		@(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))
+
+		<script src="_framework/blazor.server.js">
+		</script>
+   10.(Video 11 + 12)
+	+) Edit ProductList.razor :
+	(*) Add:
+		@if (selectedProduct != null)
+		{
+    			<div class="modal fade" id="productModal" tabindex="-1" role="dialog" aria-labelledby="productTitle" aria-hidden="true">
+        			<div class="modal-dialog modal-dialog-centered" role="document">
+            				<div class="modal-content">
+                				<div class="modal-header">
+                    					<h5 class="modal-title" id="productTitle">@selectedProduct.Title</h5>
+                    					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        					<span aria-hidden="true">&times;</span>
+                    					</button>
+                				</div>
+                				<div class="modal-body">
+                    					<div class="card">
+                        					<div class="card-img" style="background-image: url('@selectedProduct.Image');">
+                        					</div>
+                        					<div class="card-body">
+                            						<p class="card-text">@selectedProduct.Description</p>
+                        					</div>
+                    					</div>
+                				</div>
+                				<div class="modal-footer">
+                    					@if (voteCount == 0)
+                    					{
+                        					<span>Be the first to vote!</span>
+                    					}
+                    					else
+                    					{
+                        					<span>@voteCount @voteLabel</span>
+                    					}
+
+                    					@for (int i = 0; i < 6; i++)
+                    					{
+                        					var currentStar = i;
+                        					if (i <= currentRating)
+                        					{
+                            						<span class="fa-star fa checked" @onclick="(e=>SubmitRating(currentStar))"></span>
+                        					}
+                        					else
+                        					{
+                            						<span class="fa-star fa" @onclick="(e=>SubmitRating(currentStar))"></span>
+                        					}
+                    					}
+                				</div>
+            				</div>
+        			</div>
+    			</div>
+		}
+	(*) Add :
+		@code {
+    			Product selectedProduct;
+    			string selectedProductId;
+
+    			void SelectProduct(string productId)
+    			{
+        			selectedProductId = productId;
+        			selectedProduct = ProductService.GetProducts().First(x => x.Id == productId);
+        			GetCurrentRating();
+    			}
+
+    			int currentRating = 0;
+    			int voteCount = 0;
+    			string voteLabel;
+
+    			void GetCurrentRating()
+   			{
+        			if (selectedProduct.Ratings == null)
+        			{
+            				currentRating = 0;
+            				voteCount = 0;
+        			}
+        			else
+        			{
+            				voteCount = selectedProduct.Ratings.Count();
+            				voteLabel = voteCount > 1 ? "Votes" : "Vote";
+            				currentRating = selectedProduct.Ratings.Sum() / voteCount;
+        			}
+
+        			System.Console.WriteLine($"Current rating for {selectedProduct.Id}:{currentRating}");
+    			}
+
+    			void SubmitRating(int rating)
+    			{
+        			System.Console.WriteLine($"Rating received for {selectedProduct.Id}: {rating}");
+        			ProductService.AddRating(selectedProductId, rating);
+        			SelectProduct(selectedProductId);
+    			}
+		}
+	(*) Add to <div class="modal-footer"> ... </div> :
+		@if (voteCount == 0)
+                    {
+                        <span>Be the first to vote!</span>
+                    }
+                    else
+                    {
+                        <span>@voteCount @voteLabel</span>
+                    }
+
+                    @for (int i = 0; i < 6; i++)
+                    {
+                        var currentStar = i;
+                        if (i <= currentRating)
+                        {
+                            <span class="fa-star fa checked" @onclick="(e=>SubmitRating(currentStar))"></span>
+                        }
+                        else
+                        {
+                            <span class="fa-star fa" @onclick="(e=>SubmitRating(currentStar))"></span>
+                        }
+                    }
+		
+		
+
+
+
+
+
+	
+
+
+
