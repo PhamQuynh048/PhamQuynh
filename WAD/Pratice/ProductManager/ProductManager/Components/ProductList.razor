@@ -1,0 +1,31 @@
+﻿@using Microsoft.AspNetCore.Components.Web
+@using ProductManager.Models
+@using ProductManager.Manager
+@inject JsonFileProductsManager ProductManager
+
+<div class="card-columns">
+    @foreach (var product in ProductManager.GetProducts())
+    {
+        <div class="card">
+            <div class="card-img" style="background-image:url('@product.Image');"></div>
+            <div class="card-body">
+                <h5 class="card-title">Name: @product.Name</h5>
+                <h7 class="card-title"><b>Price:</b> @product.Price</h7>
+            </div>
+        </div>
+        
+    }
+</div>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+@code {
+    Product selectedProduct;
+    string selectedProductId;
+
+    void SelectProduct(string productId)
+    {
+        selectedProductId = productId;
+        selectedProduct = ProductManager.GetProducts().First(x => x.Id == productId);
+    }
+}
