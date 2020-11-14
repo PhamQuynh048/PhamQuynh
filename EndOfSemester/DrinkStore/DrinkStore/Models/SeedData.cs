@@ -23,45 +23,45 @@ namespace DrinkStore.Models
                 context.Products.AddRange(
                     new Product
                     {
-                        Name = "Kayak",
-                        Description = "A boat for one person",
-                        Status = "New",
-                        Price = 275
+                        Name = "Cafe",
+                        Description = "bitter, have milk and sugar",
+                        Status = "A half",
+                        Price = 100
                     },
                     new Product
                     {
-                        Name = "Kayak1",
-                        Description = "A boat for one person",
-                        Status = "New",
-                        Price = 275
+                        Name = "Milk",
+                        Description = "sweet, 50% sugar",
+                        Status = "Full",
+                        Price = 80
                     },
                     new Product
                     {
-                        Name = "Kayak2",
-                        Description = "A boat for one person",
-                        Status = "New",
-                        Price = 275
+                        Name = "Smoothie",
+                        Description = "sweet, healthy",
+                        Status = "Full",
+                        Price = 150
                     },
                     new Product
                     {
-                        Name = "Kayak3",
-                        Description = "A boat for one person",
-                        Status = "New",
-                        Price = 275
+                        Name = "Milk tea",
+                        Description = "Sweet, 50% ice, 50% sugar",
+                        Status = "Full",
+                        Price = 120
                     },
                     new Product
                     {
-                        Name = "Kayak4",
-                        Description = "A boat for one person",
-                        Status = "New",
-                        Price = 275
+                        Name = "Yogurt",
+                        Description = "Sour, sweet",
+                        Status = "A half",
+                        Price = 155
                     },
                     new Product
                     {
-                        Name = "Kayak5",
-                        Description = "A boat for one person",
-                        Status = "New",
-                        Price = 275
+                        Name = "Tea",
+                        Description = "bitter",
+                        Status = "A half",
+                        Price = 125
                     }
                     );
                 context.SaveChanges();
