@@ -1,0 +1,14 @@
+﻿@*@model IQueryable<Product>*@
+@model ProductsListViewModel
+
+@foreach (var Model in Model.Products)
+{
+    <partial name="ProductSummary" model="Model" />
+}
+
+<div page-model="@Model.PagingInfo" page-action="Index"
+     page-classes-enable="true"
+     page-class="btn" page-class-normal="btn-outline-dark"
+     page-class-selected="btn-primary">
+    
+</div>
