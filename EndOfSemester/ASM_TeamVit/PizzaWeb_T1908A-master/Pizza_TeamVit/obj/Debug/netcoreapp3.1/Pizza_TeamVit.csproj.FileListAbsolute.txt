@@ -1,0 +1,477 @@
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.exe
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.deps.json
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.json
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.dev.json
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csprojAssemblyReference.cache
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfoInputs.cache
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfo.cs
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CoreCompileInputs.cache
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cache
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cs
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.input.cache
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.output.cache
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorCoreGenerate.cache
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cache
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cs
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CopyComplete
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.Manifest.cache
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.xml
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+C:\Users\Tran Thi An\source\repos\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.genruntimeconfig.cache
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.exe
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.deps.json
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.json
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.dev.json
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csprojAssemblyReference.cache
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfo.cs
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cache
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cs
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.input.cache
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.output.cache
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorCoreGenerate.cache
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cache
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cs
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CopyComplete
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.Manifest.cache
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.xml
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+D:\Visual Studio 2019\EAP\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.genruntimeconfig.cache
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.exe
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.deps.json
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.json
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.dev.json
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csprojAssemblyReference.cache
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfoInputs.cache
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfo.cs
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CoreCompileInputs.cache
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cache
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cs
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.Manifest.cache
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.xml
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\scopedcss\bundle\Pizza_TeamVit.styles.css
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.input.cache
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.output.cache
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorCoreGenerate.cache
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cache
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cs
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CopyComplete
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+C:\Users\son10\Downloads\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.genruntimeconfig.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.exe
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.deps.json
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.json
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.dev.json
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csprojAssemblyReference.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfoInputs.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfo.cs
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CoreCompileInputs.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cs
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.input.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.output.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorCoreGenerate.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cs
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CopyComplete
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.Manifest.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.xml
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.genruntimeconfig.cache
+C:\Users\rough\Desktop\Web_T1908a\Pizza_TeamVit\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.exe
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.deps.json
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.json
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.dev.json
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csprojAssemblyReference.cache
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfoInputs.cache
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfo.cs
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CoreCompileInputs.cache
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.MvcApplicationPartsAssemblyInfo.cache
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cache
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cs
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.input.cache
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.output.cache
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorCoreGenerate.cache
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cache
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cs
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CopyComplete
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.Manifest.cache
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.xml
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.genruntimeconfig.cache
+D:\PiizaWeb_T1908A\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.exe
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.deps.json
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.json
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.runtimeconfig.dev.json
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cache
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorAssemblyInfo.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.input.cache
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.TagHelpers.output.cache
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorCoreGenerate.cache
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.Views.pdb
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.csproj.CopyComplete
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\staticwebassets\Pizza_TeamVit.StaticWebAssets.xml
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.dll
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.pdb
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Pizza_TeamVit.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Downloads\PizzaWeb_T1908A-master\Pizza_TeamVit\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
