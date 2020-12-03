@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual studio code\\Pizza_TeamVit\\Pizza_TeamVit\\Pizza_TeamVit\\Pizza_TeamVit.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\HomeworkC#\\EndOfSemester\\ASM_TeamVit\\Pizza_TeamVit-master\\Pizza_TeamVit\\Pizza_TeamVit.csproj": {}
   },
   "projects": {
-    "D:\\Visual studio code\\Pizza_TeamVit\\Pizza_TeamVit\\Pizza_TeamVit\\Pizza_TeamVit.csproj": {
+    "C:\\Users\\ASUS\\Documents\\HomeworkC#\\EndOfSemester\\ASM_TeamVit\\Pizza_TeamVit-master\\Pizza_TeamVit\\Pizza_TeamVit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual studio code\\Pizza_TeamVit\\Pizza_TeamVit\\Pizza_TeamVit\\Pizza_TeamVit.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\HomeworkC#\\EndOfSemester\\ASM_TeamVit\\Pizza_TeamVit-master\\Pizza_TeamVit\\Pizza_TeamVit.csproj",
         "projectName": "Pizza_TeamVit",
-        "projectPath": "D:\\Visual studio code\\Pizza_TeamVit\\Pizza_TeamVit\\Pizza_TeamVit\\Pizza_TeamVit.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual studio code\\Pizza_TeamVit\\Pizza_TeamVit\\Pizza_TeamVit\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\HomeworkC#\\EndOfSemester\\ASM_TeamVit\\Pizza_TeamVit-master\\Pizza_TeamVit\\Pizza_TeamVit.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\HomeworkC#\\EndOfSemester\\ASM_TeamVit\\Pizza_TeamVit-master\\Pizza_TeamVit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

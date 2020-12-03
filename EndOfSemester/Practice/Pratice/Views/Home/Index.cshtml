@@ -1,0 +1,10 @@
+﻿
+@foreach (var p in Model.Employees)
+{
+    <div>
+        <h3>Name: @p.FristName @p.LastName</h3>
+        <p>Gender: @p.gender</p>
+        <h6>Salary: @p.Salary.ToString("c")</h6>
+    </div>
+}
+<div page-model="Model.PagingInfo" page-action="Index"></div>
